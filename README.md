@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of delzyioncloud/flarum-whmcs.** Not for installation: use [Packagist](https://packagist.org/packages/delzyioncloud/flarum-whmcs) or the [upstream repository](https://github.com/delzyioncloud/flarum-whmcs).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/delzyioncloud-flarum-whmcs/tree/archive/v1.0.0) · License: `GPL-3.0-only` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/delzyioncloud-flarum-whmcs/tree/archive/v1.0.0) · License: `GPL-3.0-only` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2023-04-19 | `^1.2.0` | [Browse](https://github.com/flarchive/delzyioncloud-flarum-whmcs/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/delzyioncloud-flarum-whmcs.json](https://github.com/flarchive/archive-index/blob/main/packages/delzyioncloud-flarum-whmcs.json)
 
